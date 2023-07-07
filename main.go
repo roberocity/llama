@@ -81,7 +81,7 @@ func main() {
 
 		if os.Args[i] == "--icons" {
 			showIcons = true
-			continue
+		    continue
 		}
 
 		startPath, err = filepath.Abs(os.Args[1])

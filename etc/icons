@@ -71,7 +71,7 @@ fi             # FILE
 *.cc            
 *.cp            
 *.c             
-*.cs            
+*.cs             
 *.h             
 *.hh            
 *.hpp           
